@@ -1,0 +1,12 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+pydantic==1.10.5
+SQLAlchemy>=2.0
+sqlmodel
+python-jose==3.3.0  
+passlib==1.7.4      
+requests==2.28.2    
+python-dotenv==1.0.0
+python-multipart==0.0.5
+psycopg2-binary
+asyncpg
